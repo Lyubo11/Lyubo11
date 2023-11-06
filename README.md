@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lyubo
 - 👀 I’m interested in Anime and Coding
-- 🌱 I’m currently learning C#, HTML, CSS, JavaScript, Java, Arduino
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate with life
 - 📫 How to reach me:
 - Insta: https://www.instagram.com/_lyubomir_/
